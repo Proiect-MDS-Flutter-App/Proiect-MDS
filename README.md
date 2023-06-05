@@ -24,6 +24,8 @@ User stories:
 9. As a user, I want to be able to set a focus timer that notifies me when it's time to take a break, allowing me to maintain productivity and avoid burnout.
 10. As a user, I want to be able to see the achievements inside the app.
 
+Source control: Project is done in Github, using a repository with commits.
+
 
 
 
